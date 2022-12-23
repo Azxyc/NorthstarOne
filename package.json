@@ -1,0 +1,26 @@
+{
+  "name": "northstar-platform",
+  "version": "1.0.0",
+  "description": "fully open-source discord bot development template that can be customised and expanded to suit your every need",
+  "main": "main.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azxyc/Northstar.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azxyc/Northstar/issues"
+  },
+  "homepage": "https://github.com/Azxyc/Northstar#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
+  }
+}

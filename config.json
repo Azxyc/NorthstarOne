@@ -1,0 +1,18 @@
+{
+    "key" : { 
+        "token" : "YOUR_TOKEN_HERE",
+        "prefix" : "YOUR_PREFIX_HERE",
+        "owner_id" : "YOUR_USER_ID_HERE"
+    },
+    "meta" : {
+        "name" : "YOUR_BOT_NAME_HERE",
+        "version": "YOUR_BOT_VERSION_HERE"
+    },
+    "themes" : {
+        "default" : "#5D89AC",
+        "error" : "#B84747",
+        "warning" : "#FFB700",
+        "success" : "#4FB847"
+    }
+        
+}
